@@ -16,6 +16,7 @@ Karan Sampath: [@ksampath0](https://github.com/ksampath0)
 The data for this dataset was obtained in Montgomery County of Maryland
 33 Columns, 172106 Rows
 
+![d9d7e3b8ead84b1f965287ae4fd01672](https://github.com/RohanGeh/Group-9-MIST-4610-Project-2/assets/150191828/493dfa30-7449-4934-b203-40cb97b09aff)
 
 #Our 2 Questions
 
